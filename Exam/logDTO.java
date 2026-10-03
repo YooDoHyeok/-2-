@@ -1,4 +1,4 @@
-package MiniProject;
+package Project1;
 
 public class logDTO {
 	// ex [200][http://sist.co.kr/find/books?key=d8&query=sist][ie][2026-10-01 10:59:56]
