@@ -1,4 +1,4 @@
-package day0915;
+package project1;
 
 /**
  * 1프로그램 시작이 메뉴 패널을 보여준다
